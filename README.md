@@ -8,7 +8,7 @@ Example data science portfolio <br><br>
 * Being specific about amenities promoted can be resulted in a higher value rating <br><br>
 ![alt text](https://github.com/danieldang1806/Duy_Portfolio/blob/main/airbnb_project_recap.png) <br><br><br>
 
-# [Project 2: E-Learning in U.S during pandemic](https://github.com/PlayingNumbers/ds_salary_proj) 
+# [Project 2: E-Learning in U.S during pandemic](https://github.com/danieldang1806/elearning_project)
 * Processed on more than 112 datasets with 7 million data points and defined the main metric: SES score = Ethnicity score + Economic Status score + Government Expenditure score
 * Applied KMeans to SES score in segmenting customers based on demographic and economic factors
 * Students of white with good economic family condition had the highest engagement index in learning products such as Career planning and job search as well as Resourses to look up information and dictionary, while Non-white students expressed their interests in Content creation and curation <br><br>
