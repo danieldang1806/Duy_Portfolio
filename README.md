@@ -1,5 +1,4 @@
-# Duy_Portfolio
-Example data science portfolio <br><br>
+# Duy's Data Science Portfolio <br><br>
 
 # [Project 1: Airbnb Value Rating in Los Angeles](https://github.com/danieldang1806/airbnb_project) 
 * Processed 1 million listings in Los Angeles and define the main metric: Value rating
