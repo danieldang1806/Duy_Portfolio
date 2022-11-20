@@ -11,4 +11,5 @@ Example data science portfolio <br><br>
 # [Project 2: E-Learning in U.S during pandemic](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Processed on more than 112 datasets with 7 million data points and defined the main metric: SES score = Ethnicity score + Economic Status score + Government Expenditure score
 * Applied KMeans to SES score in segmenting customers based on demographic and economic factors
-* Students of white with good economic family condition had the highest engagement index in learning products such as Career planning and job search as well as Resourses to look up information and dictionary, while Non-white students expressed their interests in Content creation and curation
+* Students of white with good economic family condition had the highest engagement index in learning products such as Career planning and job search as well as Resourses to look up information and dictionary, while Non-white students expressed their interests in Content creation and curation <br><br>
+![alt text](https://github.com/danieldang1806/Duy_Portfolio/blob/main/us_elearning_recap.png) 
